@@ -1,7 +1,7 @@
 ### "who cares if i'm pretty if i fail my finals?" — rory gilmore, 2006.
 
 <p align="left">
-  <a href="www.linkedin.com/in/barkha-dhamija-87631632b">
+  <a href="https://www.linkedin.com/in/barkha-dhamija-87631632b/?skipRedirect=true">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
  
